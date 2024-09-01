@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Melody
-- 👀 I’m interested in machine learning, algebra, semantic representation, algorithmic paradigms, functional programming and compilers, cybersecurity
-- 🌱 I’m currently learning Java, Python: machine learning frameworks
+- 👋 Hi, I’m Melody!
+- 👀 I’m interested in machine learning, semantic representation, automated vehicles, functional programming and compilers, cybersecurity
+- 🌱 I’m currently learning C/C++: motion planning (OMPL) and everything AVs
 - 💞️ I’m looking to collaborate on competitive math problems, language modeling, video game design
 - 📫 How to reach me: email me at mj56 (at) rice (dot) edu
 
